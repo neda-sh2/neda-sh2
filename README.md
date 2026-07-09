@@ -46,7 +46,7 @@ My work spans the full spectrum of modern bioinformatics — from raw sequencing
 | [`clustering-dimensionality-reduction`](https://github.com/neda-sh2/clustering-dimensionality-reduction) | K-Means · DBSCAN · Hierarchical · PCA · t-SNE · UMAP across three datasets |
 | [`gradient-descent-from-scratch`](https://github.com/neda-sh2/gradient-descent-from-scratch) | Linear regression and gradient descent implemented from first principles; validated against sklearn |
 | [`logistic-regression-classification`](https://github.com/neda-sh2/logistic-regression-classification) | Logistic regression across 4 datasets including class imbalance and missing medical data |
-| [`nlp-feature-engineering-doctor-reviews`](https://github.com/neda-sh2/nlp-feature-engineering-doctor-reviews) | BoW · N-grams · NER on medical review text; NLTK vs. SpaCy vs. Stanza benchmarked |
+| [`nlp-feature-engineering`](https://github.com/neda-sh2/nlp-feature-engineering-doctor-reviews) | BoW · N-grams · NER on medical review text; NLTK vs. SpaCy vs. Stanza benchmarked |
 | [`circos-gwas-visualization`](https://github.com/neda-sh2/circos-gwas-visualization) | Multi-track Circos genome plot from GWAS association data using PCircos |
 | [`knn-wine-classification`](https://github.com/neda-sh2/knn-wine-classification) | KNN implemented from scratch and with sklearn; validated on wine quality data |
 | [`linear-regression-insurance`](https://github.com/neda-sh2/linear-regression-insurance) | Simple and multiple linear regression with interaction terms; feature engineering on insurance data |
